@@ -1,0 +1,13 @@
+TODO:
+1. Hacer que funcione todo bien en internet explorer
+2. Anadir un search function a albums. 
+   Que los organize de 6 en 6 por paginas.
+3. Hacer que post funcione en Poll
+Search by genres, use checkboxes?
+4. Agregar quiz de P3P
+5. Terminar informacion del about
+6. Anadir Gloss Drop, mas albumes, quitar otros
+7. Arreglar cosas del nav bar, zoom in problem (poner
+ en una lista), alignment cuando hay un scroll bar 
+a la derecha. Tal vez ponerlo completamente arriba.
+8. Anadir see results en Poll
